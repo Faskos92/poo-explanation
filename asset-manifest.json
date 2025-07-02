@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poo-explanation/static/css/main.10b3ce52.css",
+    "main.js": "/poo-explanation/static/js/main.2da32b2c.js",
+    "static/js/453.30df80e8.chunk.js": "/poo-explanation/static/js/453.30df80e8.chunk.js",
+    "index.html": "/poo-explanation/index.html",
+    "main.10b3ce52.css.map": "/poo-explanation/static/css/main.10b3ce52.css.map",
+    "main.2da32b2c.js.map": "/poo-explanation/static/js/main.2da32b2c.js.map",
+    "453.30df80e8.chunk.js.map": "/poo-explanation/static/js/453.30df80e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b3ce52.css",
+    "static/js/main.2da32b2c.js"
+  ]
+}
